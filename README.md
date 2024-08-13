@@ -1,6 +1,8 @@
 # 🍔 Descubriendo la Base de Datos de Fast Food 🍟
 
-![Logo de Fast Food](LOGO.png)
+<div align="center">
+  <img src="LOGO.png" alt="Logo de Fast Food" width="300"/>
+</div>
 
 **Fast Food House S.A.**, fundada en 2022, ha experimentado un crecimiento rápido con sucursales en centros comerciales y turísticos. Para enfrentar los desafíos de gestión y tomar decisiones más efectivas, hemos desarrollado una base de datos consolidada y confiable.
 
