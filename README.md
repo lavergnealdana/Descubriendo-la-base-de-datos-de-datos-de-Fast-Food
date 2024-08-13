@@ -1,5 +1,7 @@
 # 🍔 Descubriendo la Base de Datos de Fast Food 🍟
 
+![Fast Food House](D:\Documents\ALDANA\Henry\Modulo 2.jpg)
+
 **Fast Food House S.A.**, fundada en 2022, ha experimentado un crecimiento rápido con sucursales en centros comerciales y turísticos. Para enfrentar los desafíos de gestión y tomar decisiones más efectivas, hemos desarrollado una base de datos consolidada y confiable.
 
 Este proyecto tiene como objetivo generar **insights valiosos** y proporcionar una visión clara del rendimiento y áreas de mejora dentro de Fast Food House S.A. Analizaremos **tendencias de ventas**, **eficiencia operativa**, y estrategias para **maximizar ingresos**, entre otros aspectos clave.
