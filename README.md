@@ -63,4 +63,4 @@ Este proyecto tiene como objetivo generar **insights valiosos** y proporcionar u
 
 🚀 **¡Estoy disponible para ayudarte a optimizar tu base de datos y transformar tus datos en información valiosa!** Si estás interesado en colaborar o necesitas un analista de datos con experiencia, **no dudes en contactarme**. ¡Vamos a trabajar juntos para llevar tus proyectos al siguiente nivel!
 
-📧 **[Contáctame aquí](lavergnealdana@gmail.com)**
+📧 ## **Contáctame conmigo a lavergnealdana@gmail.com**
